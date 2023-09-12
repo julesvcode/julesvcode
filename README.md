@@ -3,6 +3,7 @@
 - ⚛️ I'm currently learning React
 - 🛠️ Follow my journey learning and building projects on Twitter
 
+
 **Current projects:**
 - [Frameplate](https:/frameplate.co)
 - [New Jobs Friday](https://newjobsfriday.com)

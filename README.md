@@ -6,7 +6,8 @@
 
 **Current projects:**
 - [Frameplate](https:/frameplate.co)
-- [New Jobs Friday](https://newjobsfriday.com)
+- [Frameplugins](https://frameplugins.com)
+- [88 Pixels](https://88pixels.co)
 
 <!---
 julesvcode/julesvcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

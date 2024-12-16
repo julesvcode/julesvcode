@@ -1,13 +1,15 @@
-- 👋🏻 Hi I'm Julien 
-- 👨🏻‍💻 I'm a digital marketer retraining as a front-end developer (self taught) 
-- ⚛️ I'm currently learning React
-- 🛠️ Follow my journey learning and building projects on Twitter
+Hi, I'm Julien 👋🏻
+
+I design and build websites, digital products and tools that empower creators, businesses, designers and entrepreneurs.
+
+- My website templates have been downloaded by 6,000+ customers.
+- I develop websites, apps and templates using modern tools like React, Astro and nocode platforms like Framer.
 
 
 **Current projects:**
-- [Frameplate](https:/frameplate.co)
-- [Frameplugins](https://frameplugins.com)
-- [88 Pixels](https://88pixels.co)
+- [Frameplate](https:/frameplate.co) - a directory of Framer resources built by the community.
+- [Frameplugins](https://frameplugins.com) - a curated directory of Framer plugins.
+- [88 Pixels](https://88pixels.co) - a Framer agency offering services, website templates, products and plugins.
 
 <!---
 julesvcode/julesvcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

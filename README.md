@@ -9,6 +9,8 @@ I design and build websites, digital products and tools that empower creators, b
 **Current projects:**
 - [Frameplate](https:/frameplate.co) - a directory of Framer resources built by the community.
 - [Frameplugins](https://frameplugins.com) - a curated directory of Framer plugins.
+- [FrameShare](https://frameshare.social) - a Framer plugin to add share buttons to Framer websites.
+- [UI Kits](https://frameplugins.com) - a curated directory of UI kits for web designers.
 - [88 Pixels](https://88pixels.co) - a Framer agency offering services, website templates, products and plugins.
 
 <!---
